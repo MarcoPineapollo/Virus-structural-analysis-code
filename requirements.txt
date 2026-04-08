@@ -1,0 +1,8 @@
+# Data processing
+pandas
+openpyxl
+numpy
+
+# Structural biology and web requests
+biopython
+requests
