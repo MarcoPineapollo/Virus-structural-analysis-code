@@ -1,5 +1,5 @@
 # Virus Structural Analysis and UniProt Metadata Scraper
-
+MarcoPineapollo. (2026). MarcoPineapollo/Virus-structural-analysis-code: Initial release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19475950
 This repository provides a standardized workflow for structural biology data processing. It includes tools for protein assembly retrieval, structural cleaning, solvent accessibility calculation, and UniProt metadata extraction.
 
 ## Core Functionalities
