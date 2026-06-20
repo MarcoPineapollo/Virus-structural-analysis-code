@@ -1,0 +1,638 @@
+chainid,resnum,resname,SASA
+P03641_Capsid protein F,1,SER,0.36
+P03641_Capsid protein F,2,ASN,3121.41
+P03641_Capsid protein F,3,ILE,784.73
+P03641_Capsid protein F,4,GLN,2870.01
+P03641_Capsid protein F,5,THR,3832.94
+P03641_Capsid protein F,6,GLY,2171.38
+P03641_Capsid protein F,7,ALA,1932.3
+P03641_Capsid protein F,8,GLU,8747.53
+P03641_Capsid protein F,9,ARG,6424.82
+P03641_Capsid protein F,10,MET,2853.47
+P03641_Capsid protein F,11,PRO,1606.05
+P03641_Capsid protein F,12,HIS,797.3
+P03641_Capsid protein F,13,ASP,2125.06
+P03641_Capsid protein F,14,LEU,478.71
+P03641_Capsid protein F,15,SER,490.72
+P03641_Capsid protein F,16,HIS,682.59
+P03641_Capsid protein F,17,LEU,38.46
+P03641_Capsid protein F,18,GLY,0.4
+P03641_Capsid protein F,19,PHE,0.0
+P03641_Capsid protein F,20,LEU,329.33
+P03641_Capsid protein F,21,ALA,430.84
+P03641_Capsid protein F,22,GLY,44.86
+P03641_Capsid protein F,23,GLN,559.41
+P03641_Capsid protein F,24,ILE,66.99
+P03641_Capsid protein F,25,GLY,48.92
+P03641_Capsid protein F,26,ARG,979.49
+P03641_Capsid protein F,27,LEU,5.61
+P03641_Capsid protein F,28,ILE,559.92
+P03641_Capsid protein F,29,THR,189.82999999999998
+P03641_Capsid protein F,30,ILE,398.32
+P03641_Capsid protein F,31,SER,645.43
+P03641_Capsid protein F,32,THR,1041.62
+P03641_Capsid protein F,33,THR,815.17
+P03641_Capsid protein F,34,PRO,2012.28
+P03641_Capsid protein F,35,VAL,41.36
+P03641_Capsid protein F,36,ILE,540.64
+P03641_Capsid protein F,37,ALA,312.17
+P03641_Capsid protein F,38,GLY,203.33
+P03641_Capsid protein F,39,ASP,173.93
+P03641_Capsid protein F,40,SER,1145.03
+P03641_Capsid protein F,41,PHE,264.53
+P03641_Capsid protein F,42,GLU,3069.8
+P03641_Capsid protein F,43,MET,422.45
+P03641_Capsid protein F,44,ASP,2273.43
+P03641_Capsid protein F,45,ALA,166.73
+P03641_Capsid protein F,46,VAL,2746.56
+P03641_Capsid protein F,47,GLY,615.16
+P03641_Capsid protein F,48,ALA,525.15
+P03641_Capsid protein F,49,LEU,344.21
+P03641_Capsid protein F,50,ARG,2593.97
+P03641_Capsid protein F,51,LEU,960.9
+P03641_Capsid protein F,52,SER,241.09
+P03641_Capsid protein F,53,PRO,1122.1
+P03641_Capsid protein F,54,LEU,755.91
+P03641_Capsid protein F,55,ARG,1095.27
+P03641_Capsid protein F,56,ARG,1184.28
+P03641_Capsid protein F,57,GLY,1000.27
+P03641_Capsid protein F,58,LEU,1990.26
+P03641_Capsid protein F,59,ALA,870.06
+P03641_Capsid protein F,60,ILE,1220.87
+P03641_Capsid protein F,61,ASP,367.04
+P03641_Capsid protein F,62,SER,106.31
+P03641_Capsid protein F,63,THR,540.31
+P03641_Capsid protein F,64,VAL,106.32
+P03641_Capsid protein F,65,ASP,268.26
+P03641_Capsid protein F,66,ILE,315.63
+P03641_Capsid protein F,67,PHE,15.280000000000001
+P03641_Capsid protein F,68,THR,13.25
+P03641_Capsid protein F,69,PHE,4.4
+P03641_Capsid protein F,70,TYR,17.27
+P03641_Capsid protein F,71,VAL,307.68
+P03641_Capsid protein F,72,PRO,55.91
+P03641_Capsid protein F,73,HIS,354.92
+P03641_Capsid protein F,74,ARG,1314.71
+P03641_Capsid protein F,75,HIS,907.0600000000001
+P03641_Capsid protein F,76,VAL,889.12
+P03641_Capsid protein F,77,TYR,959.0
+P03641_Capsid protein F,78,GLY,1535.05
+P03641_Capsid protein F,79,GLU,8344.32
+P03641_Capsid protein F,80,GLN,5350.43
+P03641_Capsid protein F,81,TRP,138.42
+P03641_Capsid protein F,82,ILE,1158.88
+P03641_Capsid protein F,83,LYS,6685.01
+P03641_Capsid protein F,84,PHE,246.83
+P03641_Capsid protein F,85,MET,0.0
+P03641_Capsid protein F,86,LYS,4616.68
+P03641_Capsid protein F,87,ASP,3787.78
+P03641_Capsid protein F,88,GLY,0.0
+P03641_Capsid protein F,89,VAL,1622.44
+P03641_Capsid protein F,90,ASN,7676.42
+P03641_Capsid protein F,91,ALA,570.96
+P03641_Capsid protein F,92,THR,6171.77
+P03641_Capsid protein F,93,PRO,3354.22
+P03641_Capsid protein F,94,LEU,340.42
+P03641_Capsid protein F,95,PRO,2593.13
+P03641_Capsid protein F,96,THR,2535.22
+P03641_Capsid protein F,97,VAL,628.08
+P03641_Capsid protein F,98,ASN,3380.6
+P03641_Capsid protein F,99,THR,704.27
+P03641_Capsid protein F,100,THR,2203.73
+P03641_Capsid protein F,101,GLY,2673.2599999999998
+P03641_Capsid protein F,102,TYR,7687.7300000000005
+P03641_Capsid protein F,103,ILE,2198.08
+P03641_Capsid protein F,104,ASP,2111.15
+P03641_Capsid protein F,105,HIS,1013.79
+P03641_Capsid protein F,106,ALA,2.4000000000000004
+P03641_Capsid protein F,107,ALA,226.70000000000002
+P03641_Capsid protein F,108,PHE,0.8
+P03641_Capsid protein F,109,LEU,32.24
+P03641_Capsid protein F,110,GLY,880.12
+P03641_Capsid protein F,111,THR,550.7
+P03641_Capsid protein F,112,ILE,297.03
+P03641_Capsid protein F,113,ASN,0.0
+P03641_Capsid protein F,114,PRO,197.67000000000002
+P03641_Capsid protein F,115,ASP,3663.03
+P03641_Capsid protein F,116,THR,3072.59
+P03641_Capsid protein F,117,ASN,3057.27
+P03641_Capsid protein F,118,LYS,4424.13
+P03641_Capsid protein F,119,ILE,55.67
+P03641_Capsid protein F,120,PRO,346.11
+P03641_Capsid protein F,121,LYS,3769.92
+P03641_Capsid protein F,122,HIS,981.22
+P03641_Capsid protein F,123,LEU,196.1
+P03641_Capsid protein F,124,PHE,101.85
+P03641_Capsid protein F,125,GLN,2535.14
+P03641_Capsid protein F,126,GLY,0.0
+P03641_Capsid protein F,127,TYR,0.0
+P03641_Capsid protein F,128,LEU,124.00999999999999
+P03641_Capsid protein F,129,ASN,1675.9
+P03641_Capsid protein F,130,ILE,0.0
+P03641_Capsid protein F,131,TYR,620.76
+P03641_Capsid protein F,132,ASN,951.23
+P03641_Capsid protein F,133,ASN,1395.74
+P03641_Capsid protein F,134,TYR,1006.15
+P03641_Capsid protein F,135,PHE,126.3
+P03641_Capsid protein F,136,LYS,833.73
+P03641_Capsid protein F,137,ALA,26.150000000000002
+P03641_Capsid protein F,138,PRO,686.18
+P03641_Capsid protein F,139,TRP,3230.18
+P03641_Capsid protein F,140,MET,539.75
+P03641_Capsid protein F,141,PRO,5641.37
+P03641_Capsid protein F,142,ASP,5259.67
+P03641_Capsid protein F,143,ARG,3419.63
+P03641_Capsid protein F,144,THR,7015.76
+P03641_Capsid protein F,145,GLU,2105.75
+P03641_Capsid protein F,146,ALA,3803.73
+P03641_Capsid protein F,147,ASN,1941.29
+P03641_Capsid protein F,148,PRO,209.51
+P03641_Capsid protein F,149,ASN,4014.74
+P03641_Capsid protein F,150,GLU,5969.11
+P03641_Capsid protein F,151,LEU,1025.35
+P03641_Capsid protein F,152,ASN,5391.87
+P03641_Capsid protein F,153,GLN,6014.61
+P03641_Capsid protein F,154,ASP,1992.27
+P03641_Capsid protein F,155,ASP,1031.8
+P03641_Capsid protein F,156,ALA,62.190000000000005
+P03641_Capsid protein F,157,ARG,2100.96
+P03641_Capsid protein F,158,TYR,913.38
+P03641_Capsid protein F,159,GLY,0.0
+P03641_Capsid protein F,160,PHE,55.74
+P03641_Capsid protein F,161,ARG,2578.6
+P03641_Capsid protein F,162,CYS,69.0
+P03641_Capsid protein F,163,CYS,105.03
+P03641_Capsid protein F,164,HIS,636.42
+P03641_Capsid protein F,165,LEU,2944.91
+P03641_Capsid protein F,166,LYS,4772.53
+P03641_Capsid protein F,167,ASN,683.83
+P03641_Capsid protein F,168,ILE,476.58
+P03641_Capsid protein F,169,TRP,58.480000000000004
+P03641_Capsid protein F,170,THR,509.54
+P03641_Capsid protein F,171,ALA,557.27
+P03641_Capsid protein F,172,PRO,386.96
+P03641_Capsid protein F,173,LEU,764.94
+P03641_Capsid protein F,174,PRO,137.0
+P03641_Capsid protein F,175,PRO,2780.6
+P03641_Capsid protein F,176,GLU,9187.31
+P03641_Capsid protein F,177,THR,198.27
+P03641_Capsid protein F,178,GLU,4634.9
+P03641_Capsid protein F,179,LEU,3346.11
+P03641_Capsid protein F,180,SER,2920.89
+P03641_Capsid protein F,181,ARG,2787.77
+P03641_Capsid protein F,182,GLN,6467.26
+P03641_Capsid protein F,183,MET,1446.87
+P03641_Capsid protein F,184,THR,7086.92
+P03641_Capsid protein F,185,THR,1284.17
+P03641_Capsid protein F,186,SER,3379.85
+P03641_Capsid protein F,187,THR,4069.31
+P03641_Capsid protein F,188,THR,3734.87
+P03641_Capsid protein F,189,SER,1269.34
+P03641_Capsid protein F,190,ILE,516.88
+P03641_Capsid protein F,191,ASP,2282.24
+P03641_Capsid protein F,192,ILE,85.78999999999999
+P03641_Capsid protein F,193,MET,368.29
+P03641_Capsid protein F,194,GLY,1443.92
+P03641_Capsid protein F,195,LEU,79.79
+P03641_Capsid protein F,196,GLN,191.94
+P03641_Capsid protein F,197,ALA,923.34
+P03641_Capsid protein F,198,ALA,1347.0
+P03641_Capsid protein F,199,TYR,213.02
+P03641_Capsid protein F,200,ALA,0.0
+P03641_Capsid protein F,201,ASN,2608.56
+P03641_Capsid protein F,202,LEU,159.48
+P03641_Capsid protein F,203,HIS,775.74
+P03641_Capsid protein F,204,THR,265.13
+P03641_Capsid protein F,205,ASP,2711.49
+P03641_Capsid protein F,206,GLN,706.58
+P03641_Capsid protein F,207,GLU,3053.15
+P03641_Capsid protein F,208,ARG,1257.59
+P03641_Capsid protein F,209,ASP,1826.91
+P03641_Capsid protein F,210,TYR,240.33
+P03641_Capsid protein F,211,PHE,2749.86
+P03641_Capsid protein F,212,MET,759.4399999999999
+P03641_Capsid protein F,213,GLN,3657.42
+P03641_Capsid protein F,214,ARG,1760.71
+P03641_Capsid protein F,215,TYR,542.42
+P03641_Capsid protein F,216,ARG,1135.4
+P03641_Capsid protein F,217,ASP,2642.77
+P03641_Capsid protein F,218,VAL,6.0
+P03641_Capsid protein F,219,ILE,6.800000000000001
+P03641_Capsid protein F,220,SER,3768.93
+P03641_Capsid protein F,221,SER,4163.74
+P03641_Capsid protein F,222,PHE,2057.23
+P03641_Capsid protein F,223,GLY,2372.28
+P03641_Capsid protein F,224,GLY,575.38
+P03641_Capsid protein F,225,LYS,7569.12
+P03641_Capsid protein F,226,THR,1151.07
+P03641_Capsid protein F,227,SER,2485.79
+P03641_Capsid protein F,228,TYR,3088.22
+P03641_Capsid protein F,229,ASP,1154.12
+P03641_Capsid protein F,230,ALA,669.97
+P03641_Capsid protein F,231,ASP,2261.69
+P03641_Capsid protein F,232,ASN,3751.0
+P03641_Capsid protein F,233,ARG,2134.34
+P03641_Capsid protein F,234,PRO,75.21000000000001
+P03641_Capsid protein F,235,LEU,2253.82
+P03641_Capsid protein F,236,LEU,1244.65
+P03641_Capsid protein F,237,VAL,791.42
+P03641_Capsid protein F,238,MET,845.23
+P03641_Capsid protein F,239,ARG,2753.95
+P03641_Capsid protein F,240,SER,179.01
+P03641_Capsid protein F,241,ASN,1788.34
+P03641_Capsid protein F,242,LEU,407.8
+P03641_Capsid protein F,243,TRP,3869.89
+P03641_Capsid protein F,244,ALA,106.16
+P03641_Capsid protein F,245,SER,1035.35
+P03641_Capsid protein F,246,GLY,1929.32
+P03641_Capsid protein F,247,TYR,4197.01
+P03641_Capsid protein F,248,ASP,1969.93
+P03641_Capsid protein F,249,VAL,580.91
+P03641_Capsid protein F,250,ASP,2271.81
+P03641_Capsid protein F,251,GLY,38.46
+P03641_Capsid protein F,252,THR,1099.94
+P03641_Capsid protein F,253,ASP,1067.73
+P03641_Capsid protein F,254,GLN,1760.3799999999999
+P03641_Capsid protein F,255,THR,809.44
+P03641_Capsid protein F,256,SER,20.880000000000003
+P03641_Capsid protein F,257,LEU,514.17
+P03641_Capsid protein F,258,GLY,369.63
+P03641_Capsid protein F,259,GLN,1567.75
+P03641_Capsid protein F,260,PHE,1972.6
+P03641_Capsid protein F,261,SER,333.01
+P03641_Capsid protein F,262,GLY,232.51
+P03641_Capsid protein F,263,ARG,1566.03
+P03641_Capsid protein F,264,VAL,889.53
+P03641_Capsid protein F,265,GLN,1788.17
+P03641_Capsid protein F,266,GLN,1606.59
+P03641_Capsid protein F,267,THR,948.03
+P03641_Capsid protein F,268,TYR,367.49
+P03641_Capsid protein F,269,LYS,3609.45
+P03641_Capsid protein F,270,HIS,27.790000000000003
+P03641_Capsid protein F,271,SER,2791.67
+P03641_Capsid protein F,272,VAL,299.74
+P03641_Capsid protein F,273,PRO,4899.02
+P03641_Capsid protein F,274,ARG,8199.23
+P03641_Capsid protein F,275,PHE,1816.69
+P03641_Capsid protein F,276,PHE,4784.77
+P03641_Capsid protein F,277,VAL,0.0
+P03641_Capsid protein F,278,PRO,1107.35
+P03641_Capsid protein F,279,GLU,493.5
+P03641_Capsid protein F,280,HIS,147.75
+P03641_Capsid protein F,281,GLY,5.04
+P03641_Capsid protein F,282,THR,438.42
+P03641_Capsid protein F,283,MET,257.48
+P03641_Capsid protein F,284,PHE,33.01
+P03641_Capsid protein F,285,THR,294.69
+P03641_Capsid protein F,286,LEU,43.6
+P03641_Capsid protein F,287,ALA,414.2
+P03641_Capsid protein F,288,LEU,38.04
+P03641_Capsid protein F,289,VAL,26.53
+P03641_Capsid protein F,290,ARG,393.44
+P03641_Capsid protein F,291,PHE,445.08
+P03641_Capsid protein F,292,PRO,474.06
+P03641_Capsid protein F,293,PRO,956.73
+P03641_Capsid protein F,294,THR,456.23
+P03641_Capsid protein F,295,ALA,338.89
+P03641_Capsid protein F,296,THR,240.31
+P03641_Capsid protein F,297,LYS,986.64
+P03641_Capsid protein F,298,GLU,1345.53
+P03641_Capsid protein F,299,ILE,281.78
+P03641_Capsid protein F,300,GLN,2959.45
+P03641_Capsid protein F,301,TYR,1259.08
+P03641_Capsid protein F,302,LEU,875.37
+P03641_Capsid protein F,303,ASN,816.36
+P03641_Capsid protein F,304,ALA,375.39
+P03641_Capsid protein F,305,LYS,2017.8
+P03641_Capsid protein F,306,GLY,2627.22
+P03641_Capsid protein F,307,ALA,2464.42
+P03641_Capsid protein F,308,LEU,280.17
+P03641_Capsid protein F,309,THR,2913.4
+P03641_Capsid protein F,310,TYR,83.36
+P03641_Capsid protein F,311,THR,1710.23
+P03641_Capsid protein F,312,ASP,198.85999999999999
+P03641_Capsid protein F,313,ILE,211.47
+P03641_Capsid protein F,314,ALA,0.0
+P03641_Capsid protein F,315,GLY,163.94
+P03641_Capsid protein F,316,ASP,1175.98
+P03641_Capsid protein F,317,PRO,1633.57
+P03641_Capsid protein F,318,VAL,428.91
+P03641_Capsid protein F,319,LEU,41.57
+P03641_Capsid protein F,320,TYR,25.32
+P03641_Capsid protein F,321,GLY,186.73
+P03641_Capsid protein F,322,ASN,792.87
+P03641_Capsid protein F,323,LEU,1736.1
+P03641_Capsid protein F,324,PRO,2297.57
+P03641_Capsid protein F,325,PRO,701.1
+P03641_Capsid protein F,326,ARG,2352.85
+P03641_Capsid protein F,327,GLU,6092.74
+P03641_Capsid protein F,328,ILE,206.55
+P03641_Capsid protein F,329,SER,639.25
+P03641_Capsid protein F,330,MET,92.86
+P03641_Capsid protein F,331,LYS,4048.97
+P03641_Capsid protein F,332,ASP,2081.74
+P03641_Capsid protein F,333,VAL,128.44
+P03641_Capsid protein F,334,PHE,154.23
+P03641_Capsid protein F,335,ARG,1951.85
+P03641_Capsid protein F,336,SER,3533.63
+P03641_Capsid protein F,337,GLY,620.67
+P03641_Capsid protein F,338,ASP,3780.91
+P03641_Capsid protein F,339,SER,3888.16
+P03641_Capsid protein F,340,SER,4364.56
+P03641_Capsid protein F,341,LYS,2467.36
+P03641_Capsid protein F,342,LYS,5663.89
+P03641_Capsid protein F,343,PHE,498.65
+P03641_Capsid protein F,344,LYS,1902.8899999999999
+P03641_Capsid protein F,345,ILE,469.79
+P03641_Capsid protein F,346,ALA,273.76
+P03641_Capsid protein F,347,GLU,944.86
+P03641_Capsid protein F,348,GLY,0.0
+P03641_Capsid protein F,349,GLN,266.85
+P03641_Capsid protein F,350,TRP,1317.67
+P03641_Capsid protein F,351,TYR,227.56
+P03641_Capsid protein F,352,ARG,715.45
+P03641_Capsid protein F,353,TYR,2243.75
+P03641_Capsid protein F,354,ALA,1373.44
+P03641_Capsid protein F,355,PRO,1164.46
+P03641_Capsid protein F,356,SER,1228.89
+P03641_Capsid protein F,357,TYR,1907.46
+P03641_Capsid protein F,358,VAL,260.55
+P03641_Capsid protein F,359,SER,587.75
+P03641_Capsid protein F,360,PRO,928.67
+P03641_Capsid protein F,361,ALA,1130.39
+P03641_Capsid protein F,362,TYR,0.36
+P03641_Capsid protein F,363,HIS,1793.6
+P03641_Capsid protein F,364,LEU,7148.46
+P03641_Capsid protein F,365,LEU,455.71000000000004
+P03641_Capsid protein F,366,GLU,1040.5
+P03641_Capsid protein F,367,GLY,126.91
+P03641_Capsid protein F,368,PHE,933.02
+P03641_Capsid protein F,369,PRO,551.42
+P03641_Capsid protein F,370,PHE,146.22
+P03641_Capsid protein F,371,ILE,296.45
+P03641_Capsid protein F,372,GLN,2399.11
+P03641_Capsid protein F,373,GLU,5138.03
+P03641_Capsid protein F,374,PRO,1063.7
+P03641_Capsid protein F,375,PRO,1347.59
+P03641_Capsid protein F,376,SER,4940.9
+P03641_Capsid protein F,377,GLY,992.34
+P03641_Capsid protein F,378,ASP,6151.11
+P03641_Capsid protein F,379,LEU,1498.27
+P03641_Capsid protein F,380,GLN,4168.74
+P03641_Capsid protein F,381,GLU,5497.7
+P03641_Capsid protein F,382,ARG,456.53
+P03641_Capsid protein F,383,VAL,165.4
+P03641_Capsid protein F,384,LEU,910.0600000000001
+P03641_Capsid protein F,385,ILE,300.24
+P03641_Capsid protein F,386,ARG,7199.89
+P03641_Capsid protein F,387,HIS,477.92
+P03641_Capsid protein F,388,HIS,6142.65
+P03641_Capsid protein F,389,ASP,2937.99
+P03641_Capsid protein F,390,TYR,274.54
+P03641_Capsid protein F,391,ASP,3744.57
+P03641_Capsid protein F,392,GLN,6115.19
+P03641_Capsid protein F,393,CYS,100.27
+P03641_Capsid protein F,394,PHE,489.1
+P03641_Capsid protein F,395,GLN,1424.17
+P03641_Capsid protein F,396,SER,1284.77
+P03641_Capsid protein F,397,VAL,579.18
+P03641_Capsid protein F,398,GLN,1777.49
+P03641_Capsid protein F,399,LEU,624.08
+P03641_Capsid protein F,400,LEU,1192.53
+P03641_Capsid protein F,401,GLN,356.14
+P03641_Capsid protein F,402,TRP,182.94
+P03641_Capsid protein F,403,ASN,1184.01
+P03641_Capsid protein F,404,SER,43.21
+P03641_Capsid protein F,405,GLN,1018.63
+P03641_Capsid protein F,406,VAL,16.01
+P03641_Capsid protein F,407,LYS,1691.48
+P03641_Capsid protein F,408,PHE,57.660000000000004
+P03641_Capsid protein F,409,ASN,1416.7
+P03641_Capsid protein F,410,VAL,149.47
+P03641_Capsid protein F,411,THR,782.16
+P03641_Capsid protein F,412,VAL,0.0
+P03641_Capsid protein F,413,TYR,1281.73
+P03641_Capsid protein F,414,ARG,228.66
+P03641_Capsid protein F,415,ASN,3254.48
+P03641_Capsid protein F,416,LEU,124.55
+P03641_Capsid protein F,417,PRO,160.6
+P03641_Capsid protein F,418,THR,1976.63
+P03641_Capsid protein F,419,THR,317.16
+P03641_Capsid protein F,420,ARG,5225.7
+P03641_Capsid protein F,421,ASP,3281.31
+P03641_Capsid protein F,422,SER,263.96
+P03641_Capsid protein F,423,ILE,260.21
+P03641_Capsid protein F,424,MET,1012.44
+P03641_Capsid protein F,425,THR,1429.61
+P03641_Capsid protein F,426,SER,2198.12
+P03643_Major spike protein G,1,MET,209.29
+P03643_Major spike protein G,2,PHE,2344.28
+P03643_Major spike protein G,3,GLN,482.83
+P03643_Major spike protein G,4,THR,1099.24
+P03643_Major spike protein G,5,PHE,281.35
+P03643_Major spike protein G,6,ILE,1817.78
+P03643_Major spike protein G,7,SER,735.31
+P03643_Major spike protein G,8,ARG,5622.85
+P03643_Major spike protein G,9,HIS,455.04
+P03643_Major spike protein G,10,ASN,1045.3
+P03643_Major spike protein G,11,SER,595.25
+P03643_Major spike protein G,12,ASN,2502.75
+P03643_Major spike protein G,13,PHE,2611.11
+P03643_Major spike protein G,14,PHE,6619.79
+P03643_Major spike protein G,15,SER,865.76
+P03643_Major spike protein G,16,ASP,2708.83
+P03643_Major spike protein G,17,LYS,7651.45
+P03643_Major spike protein G,18,LEU,1154.45
+P03643_Major spike protein G,19,VAL,7492.95
+P03643_Major spike protein G,20,LEU,3738.07
+P03643_Major spike protein G,21,THR,5252.1
+P03643_Major spike protein G,22,SER,2890.64
+P03643_Major spike protein G,23,VAL,340.22
+P03643_Major spike protein G,24,THR,4742.89
+P03643_Major spike protein G,25,PRO,463.93
+P03643_Major spike protein G,26,ALA,1692.34
+P03643_Major spike protein G,27,SER,4915.4
+P03643_Major spike protein G,28,SER,3692.85
+P03643_Major spike protein G,29,ALA,0.0
+P03643_Major spike protein G,30,PRO,1476.99
+P03643_Major spike protein G,31,VAL,1112.45
+P03643_Major spike protein G,32,LEU,879.3100000000001
+P03643_Major spike protein G,33,GLN,2263.15
+P03643_Major spike protein G,34,THR,6507.71
+P03643_Major spike protein G,35,PRO,1588.9
+P03643_Major spike protein G,36,LYS,6208.72
+P03643_Major spike protein G,37,ALA,3188.45
+P03643_Major spike protein G,38,THR,2075.87
+P03643_Major spike protein G,39,SER,1544.62
+P03643_Major spike protein G,40,SER,297.25
+P03643_Major spike protein G,41,THR,37.57
+P03643_Major spike protein G,42,LEU,111.52
+P03643_Major spike protein G,43,TYR,1101.14
+P03643_Major spike protein G,44,PHE,731.0600000000001
+P03643_Major spike protein G,45,ASP,4005.31
+P03643_Major spike protein G,46,SER,2708.65
+P03643_Major spike protein G,47,LEU,0.0
+P03643_Major spike protein G,48,THR,2394.97
+P03643_Major spike protein G,49,VAL,84.8
+P03643_Major spike protein G,50,ASN,3243.0099999999998
+P03643_Major spike protein G,51,ALA,4060.9
+P03643_Major spike protein G,52,GLY,686.77
+P03643_Major spike protein G,53,ASN,5569.86
+P03643_Major spike protein G,54,GLY,0.0
+P03643_Major spike protein G,55,GLY,0.0
+P03643_Major spike protein G,56,PHE,683.98
+P03643_Major spike protein G,57,LEU,105.46
+P03643_Major spike protein G,58,HIS,633.28
+P03643_Major spike protein G,59,CYS,40.09
+P03643_Major spike protein G,60,ILE,0.0
+P03643_Major spike protein G,61,GLN,3235.45
+P03643_Major spike protein G,62,MET,501.37
+P03643_Major spike protein G,63,ASP,2979.89
+P03643_Major spike protein G,64,THR,4284.19
+P03643_Major spike protein G,65,SER,4737.89
+P03643_Major spike protein G,66,VAL,741.86
+P03643_Major spike protein G,67,ASN,3350.23
+P03643_Major spike protein G,68,ALA,157.13
+P03643_Major spike protein G,69,ALA,3194.33
+P03643_Major spike protein G,70,ASN,1250.55
+P03643_Major spike protein G,71,GLN,3.7199999999999998
+P03643_Major spike protein G,72,VAL,14.940000000000001
+P03643_Major spike protein G,73,VAL,21.49
+P03643_Major spike protein G,74,SER,0.0
+P03643_Major spike protein G,75,VAL,24.490000000000002
+P03643_Major spike protein G,76,GLY,0.0
+P03643_Major spike protein G,77,ALA,0.0
+P03643_Major spike protein G,78,ASP,231.27
+P03643_Major spike protein G,79,ILE,512.0699999999999
+P03643_Major spike protein G,80,ALA,28.19
+P03643_Major spike protein G,81,PHE,286.61
+P03643_Major spike protein G,82,ASP,3910.63
+P03643_Major spike protein G,83,ALA,2850.13
+P03643_Major spike protein G,84,ASP,3340.27
+P03643_Major spike protein G,85,PRO,1097.52
+P03643_Major spike protein G,86,LYS,3938.52
+P03643_Major spike protein G,87,PHE,4.359999999999999
+P03643_Major spike protein G,88,PHE,326.91
+P03643_Major spike protein G,89,ALA,53.08
+P03643_Major spike protein G,90,CYS,6.02
+P03643_Major spike protein G,91,LEU,27.41
+P03643_Major spike protein G,92,VAL,20.91
+P03643_Major spike protein G,93,ARG,388.44
+P03643_Major spike protein G,94,PHE,109.08
+P03643_Major spike protein G,95,GLU,2019.94
+P03643_Major spike protein G,96,SER,1241.16
+P03643_Major spike protein G,97,SER,5071.86
+P03643_Major spike protein G,98,SER,3827.63
+P03643_Major spike protein G,99,VAL,6058.31
+P03643_Major spike protein G,100,PRO,591.52
+P03643_Major spike protein G,101,THR,6004.2300000000005
+P03643_Major spike protein G,102,THR,3409.37
+P03643_Major spike protein G,103,LEU,256.46
+P03643_Major spike protein G,104,PRO,2231.21
+P03643_Major spike protein G,105,THR,8281.82
+P03643_Major spike protein G,106,ALA,4128.66
+P03643_Major spike protein G,107,TYR,2181.79
+P03643_Major spike protein G,108,ASP,1127.34
+P03643_Major spike protein G,109,VAL,76.08
+P03643_Major spike protein G,110,TYR,33.85
+P03643_Major spike protein G,111,PRO,12.23
+P03643_Major spike protein G,112,LEU,190.56
+P03643_Major spike protein G,113,ASN,2862.51
+P03643_Major spike protein G,114,GLY,88.03999999999999
+P03643_Major spike protein G,115,ARG,3076.15
+P03643_Major spike protein G,116,HIS,661.68
+P03643_Major spike protein G,117,ASP,1512.34
+P03643_Major spike protein G,118,GLY,1262.65
+P03643_Major spike protein G,119,GLY,711.48
+P03643_Major spike protein G,120,TYR,512.42
+P03643_Major spike protein G,121,TYR,156.93
+P03643_Major spike protein G,122,THR,129.29
+P03643_Major spike protein G,123,VAL,42.36
+P03643_Major spike protein G,124,LYS,1578.03
+P03643_Major spike protein G,125,ASP,488.21
+P03643_Major spike protein G,126,CYS,378.81
+P03643_Major spike protein G,127,VAL,609.9
+P03643_Major spike protein G,128,THR,591.21
+P03643_Major spike protein G,129,ILE,16.45
+P03643_Major spike protein G,130,ASP,1338.53
+P03643_Major spike protein G,131,VAL,0.4
+P03643_Major spike protein G,132,LEU,2857.93
+P03643_Major spike protein G,133,PRO,2732.0
+P03643_Major spike protein G,134,ARG,4966.15
+P03643_Major spike protein G,135,THR,4216.26
+P03643_Major spike protein G,136,PRO,7525.7
+P03643_Major spike protein G,137,GLY,3703.46
+P03643_Major spike protein G,138,ASN,2251.65
+P03643_Major spike protein G,139,ASN,2920.57
+P03643_Major spike protein G,140,VAL,76.51
+P03643_Major spike protein G,141,TYR,447.11
+P03643_Major spike protein G,142,VAL,41.97
+P03643_Major spike protein G,143,GLY,0.0
+P03643_Major spike protein G,144,PHE,609.01
+P03643_Major spike protein G,145,MET,117.13
+P03643_Major spike protein G,146,VAL,318.58
+P03643_Major spike protein G,147,TRP,875.76
+P03643_Major spike protein G,148,SER,188.02
+P03643_Major spike protein G,149,ASN,4876.42
+P03643_Major spike protein G,150,PHE,458.76
+P03643_Major spike protein G,151,THR,5443.96
+P03643_Major spike protein G,152,ALA,4336.96
+P03643_Major spike protein G,153,THR,1325.84
+P03643_Major spike protein G,154,LYS,4831.48
+P03643_Major spike protein G,155,CYS,174.05
+P03643_Major spike protein G,156,ARG,579.85
+P03643_Major spike protein G,157,GLY,0.0
+P03643_Major spike protein G,158,LEU,3.6
+P03643_Major spike protein G,159,VAL,379.63
+P03643_Major spike protein G,160,SER,28.99
+P03643_Major spike protein G,161,LEU,54.87
+P03643_Major spike protein G,162,ASN,1087.56
+P03643_Major spike protein G,163,GLN,173.2
+P03643_Major spike protein G,164,VAL,205.26
+P03643_Major spike protein G,165,ILE,1415.17
+P03643_Major spike protein G,166,LYS,7058.91
+P03643_Major spike protein G,167,GLU,1208.3
+P03643_Major spike protein G,168,ILE,2662.55
+P03643_Major spike protein G,169,ILE,2121.94
+P03643_Major spike protein G,170,CYS,560.86
+P03643_Major spike protein G,171,LEU,74.77
+P03643_Major spike protein G,172,GLN,777.42
+P03643_Major spike protein G,173,PRO,420.27
+P03643_Major spike protein G,174,LEU,1112.48
+P03643_Major spike protein G,175,LYS,1417.01
+P69592_DNA-binding protein J,2,LYS,10704.64
+P69592_DNA-binding protein J,3,GLY,459.55
+P69592_DNA-binding protein J,4,LYS,7977.47
+P69592_DNA-binding protein J,5,LYS,8202.72
+P69592_DNA-binding protein J,6,ARG,7084.43
+P69592_DNA-binding protein J,7,SER,3755.04
+P69592_DNA-binding protein J,8,GLY,26.66
+P69592_DNA-binding protein J,9,ALA,3656.04
+P69592_DNA-binding protein J,10,ARG,5214.61
+P69592_DNA-binding protein J,11,PRO,7688.41
+P69592_DNA-binding protein J,12,GLY,2793.63
+P69592_DNA-binding protein J,13,ARG,11368.56
+P69592_DNA-binding protein J,14,PRO,1530.57
+P69592_DNA-binding protein J,15,GLN,8923.48
+P69592_DNA-binding protein J,16,PRO,1828.09
+P69592_DNA-binding protein J,17,LEU,813.0
+P69592_DNA-binding protein J,18,ARG,7866.8
+P69592_DNA-binding protein J,19,GLY,733.54
+P69592_DNA-binding protein J,20,THR,2691.7
+P69592_DNA-binding protein J,21,LYS,7935.9
+P69592_DNA-binding protein J,22,GLY,877.38
+P69592_DNA-binding protein J,23,LYS,9643.99
+P69592_DNA-binding protein J,24,ARG,6990.3
+P69592_DNA-binding protein J,25,LYS,7351.97
+P69592_DNA-binding protein J,26,GLY,2948.37
+P69592_DNA-binding protein J,27,ALA,3077.92
+P69592_DNA-binding protein J,28,ARG,8092.87
+P69592_DNA-binding protein J,29,LEU,2827.03
+P69592_DNA-binding protein J,30,TRP,2611.99
+P69592_DNA-binding protein J,31,TYR,1347.07
+P69592_DNA-binding protein J,32,VAL,402.37
+P69592_DNA-binding protein J,33,GLY,0.0
+P69592_DNA-binding protein J,34,GLY,1314.62
+P69592_DNA-binding protein J,35,GLN,5349.91
+P69592_DNA-binding protein J,36,GLN,1359.63
+P69592_DNA-binding protein J,37,PHE,2145.15

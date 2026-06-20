@@ -1,0 +1,779 @@
+chainid,resnum,resname,SASA
+Q6EDW1_Infectivity protein,30,GLN,2228.53
+Q6EDW1_Infectivity protein,31,VAL,7523.28
+Q6EDW1_Infectivity protein,32,ALA,1327.68
+Q6EDW1_Infectivity protein,33,SER,6770.61
+Q6EDW1_Infectivity protein,34,ASN,2015.1
+Q6EDW1_Infectivity protein,35,TRP,1505.49
+Q6EDW1_Infectivity protein,36,GLU,3554.92
+Q6EDW1_Infectivity protein,37,GLY,87.58
+Q6EDW1_Infectivity protein,38,PRO,335.37
+Q6EDW1_Infectivity protein,39,PRO,1700.11
+Q6EDW1_Infectivity protein,40,TYR,2755.41
+Q6EDW1_Infectivity protein,41,MET,71.13
+Q6EDW1_Infectivity protein,42,THR,460.57
+Q6EDW1_Infectivity protein,43,TYR,642.06
+Q6EDW1_Infectivity protein,44,ASN,72.48
+Q6EDW1_Infectivity protein,45,GLN,1779.65
+Q6EDW1_Infectivity protein,46,PRO,1530.1
+Q6EDW1_Infectivity protein,47,GLN,4170.8
+Q6EDW1_Infectivity protein,48,ALA,4886.49
+Q6EDW1_Infectivity protein,49,GLY,2627.28
+Q6EDW1_Infectivity protein,50,SER,1943.08
+Q6EDW1_Infectivity protein,51,VAL,3266.49
+Q6EDW1_Infectivity protein,52,THR,962.46
+Q6EDW1_Infectivity protein,53,LEU,521.33
+Q6EDW1_Infectivity protein,54,PRO,3395.08
+Q6EDW1_Infectivity protein,55,VAL,1076.29
+Q6EDW1_Infectivity protein,56,ALA,792.8
+Q6EDW1_Infectivity protein,57,GLY,324.51
+Q6EDW1_Infectivity protein,58,TYR,9929.97
+Q6EDW1_Infectivity protein,96,ILE,6666.65
+Q6EDW1_Infectivity protein,97,SER,7143.65
+Q6EDW1_Infectivity protein,98,SER,2819.56
+Q6EDW1_Infectivity protein,99,GLN,6107.99
+Q6EDW1_Infectivity protein,100,LEU,1419.39
+Q6EDW1_Infectivity protein,101,ASN,6305.95
+Q6EDW1_Infectivity protein,102,ASN,4940.48
+Q6EDW1_Infectivity protein,103,TYR,948.37
+Q6EDW1_Infectivity protein,104,ALA,1843.29
+Q6EDW1_Infectivity protein,105,GLU,6503.57
+Q6EDW1_Infectivity protein,106,SER,711.03
+Q6EDW1_Infectivity protein,107,LEU,256.48
+Q6EDW1_Infectivity protein,108,ASN,4899.02
+Q6EDW1_Infectivity protein,109,ASP,3716.59
+Q6EDW1_Infectivity protein,110,TYR,505.02
+Q6EDW1_Infectivity protein,111,LEU,3822.85
+Q6EDW1_Infectivity protein,112,ALA,1648.08
+Q6EDW1_Infectivity protein,113,SER,665.21
+Q6EDW1_Infectivity protein,114,GLN,2791.61
+Q6EDW1_Infectivity protein,115,ALA,780.91
+Q6EDW1_Infectivity protein,116,GLY,190.58
+Q6EDW1_Infectivity protein,117,VAL,6947.93
+Q6EDW3_Minor capsid protein,1,MET,12791.15
+Q6EDW3_Minor capsid protein,2,ALA,2711.29
+Q6EDW3_Minor capsid protein,3,LEU,3199.05
+Q6EDW3_Minor capsid protein,4,ILE,7108.97
+Q6EDW3_Minor capsid protein,5,ASN,607.5
+Q6EDW3_Minor capsid protein,6,PRO,713.04
+Q6EDW3_Minor capsid protein,7,GLN,390.78
+Q6EDW3_Minor capsid protein,8,PHE,369.42
+Q6EDW3_Minor capsid protein,9,PRO,2088.1
+Q6EDW3_Minor capsid protein,10,TYR,4682.28
+Q6EDW3_Minor capsid protein,11,ALA,1651.82
+Q6EDW3_Minor capsid protein,12,GLY,2422.65
+Q6EDW3_Minor capsid protein,13,PRO,5419.06
+Q6EDW3_Minor capsid protein,14,VAL,687.61
+Q6EDW3_Minor capsid protein,15,PRO,4390.36
+Q6EDW3_Minor capsid protein,16,ILE,2680.62
+Q6EDW3_Minor capsid protein,17,PRO,565.04
+Q6EDW3_Minor capsid protein,18,GLY,1669.46
+Q6EDW3_Minor capsid protein,19,PRO,1963.95
+Q6EDW3_Minor capsid protein,20,ALA,556.72
+Q6EDW3_Minor capsid protein,21,PRO,3157.92
+Q6EDW3_Minor capsid protein,22,THR,264.55
+Q6EDW3_Minor capsid protein,23,GLU,1737.18
+Q6EDW3_Minor capsid protein,24,THR,496.75
+Q6EDW3_Minor capsid protein,25,MET,1936.62
+Q6EDW3_Minor capsid protein,26,PRO,387.27
+Q6EDW3_Minor capsid protein,27,LEU,347
+Q6EDW3_Minor capsid protein,28,LEU,5722.45
+Q6EDW3_Minor capsid protein,29,ASN,890.15
+Q6EDW3_Minor capsid protein,30,TYR,1475.2
+Q6EDW3_Minor capsid protein,31,ARG,5730.32
+Q6EDW3_Minor capsid protein,32,VAL,980.55
+Q6EDW3_Minor capsid protein,33,GLU,1852.06
+Q6EDW3_Minor capsid protein,34,GLY,766.81
+Q6EDW3_Minor capsid protein,35,ARG,1989.46
+Q6EDW3_Minor capsid protein,36,ILE,893.96
+Q6EDW3_Minor capsid protein,37,ALA,718.27
+Q6EDW3_Minor capsid protein,38,GLY,0.72
+Q6EDW3_Minor capsid protein,39,ILE,315.7
+Q6EDW3_Minor capsid protein,40,GLN,804.5
+Q6EDW3_Minor capsid protein,41,GLN,940.62
+Q6EDW3_Minor capsid protein,42,ALA,4023.81
+Q6EDW3_Minor capsid protein,43,ARG,4983.98
+Q6EDW3_Minor capsid protein,44,GLN,958.47
+Q6EDW3_Minor capsid protein,45,PHE,694.98
+Q6EDW3_Minor capsid protein,46,MET,1041.16
+Q6EDW3_Minor capsid protein,47,PRO,359.04
+Q6EDW3_Minor capsid protein,48,PHE,3395.34
+Q6EDW3_Minor capsid protein,49,LEU,2786.06
+Q6EDW3_Minor capsid protein,50,GLN,6934.03
+Q6EDW3_Minor capsid protein,51,GLY,846.06
+Q6EDW3_Minor capsid protein,52,PRO,2457.58
+Q6EDW3_Minor capsid protein,53,HIS,3042.67
+Q6EDW3_Minor capsid protein,54,ARG,1244.7
+Q6EDW3_Minor capsid protein,55,GLU,7663.36
+Q6EDW3_Minor capsid protein,56,VAL,3512.75
+Q6EDW3_Minor capsid protein,57,ALA,107.34
+Q6EDW3_Minor capsid protein,58,GLU,6463.72
+Q6EDW3_Minor capsid protein,59,GLN,1449.73
+Q6EDW3_Minor capsid protein,60,THR,1179
+Q6EDW3_Minor capsid protein,61,TYR,5137.44
+Q6EDW3_Minor capsid protein,62,TYR,816.06
+Q6EDW3_Minor capsid protein,63,ALA,1470.97
+Q6EDW3_Minor capsid protein,64,ILE,582.09
+Q6EDW3_Minor capsid protein,65,GLY,359.61
+Q6EDW3_Minor capsid protein,66,THR,1580.65
+Q6EDW3_Minor capsid protein,67,GLY,270.59
+Q6EDW3_Minor capsid protein,68,ILE,235.38
+Q6EDW3_Minor capsid protein,69,GLN,327.13
+Q6EDW3_Minor capsid protein,70,MET,25.47
+Q6EDW3_Minor capsid protein,71,GLY,186.15
+Q6EDW3_Minor capsid protein,72,GLN,695.87
+Q6EDW3_Minor capsid protein,73,THR,1688.31
+Q6EDW3_Minor capsid protein,74,PHE,546.84
+Q6EDW3_Minor capsid protein,75,ASN,1507.07
+Q6EDW3_Minor capsid protein,76,GLN,1040.56
+Q6EDW3_Minor capsid protein,77,PRO,70.96
+Q6EDW3_Minor capsid protein,78,LEU,19.25
+Q6EDW3_Minor capsid protein,79,ILE,441.61
+Q6EDW3_Minor capsid protein,80,ASN,4112.15
+Q6EDW3_Minor capsid protein,81,THR,3080.21
+Q6EDW3_Minor capsid protein,82,GLN,9210.65
+Q6EDW3_Minor capsid protein,83,GLU,3320.79
+Q6EDW3_Minor capsid protein,84,GLY,2528.79
+Q6EDX0_Major capsid protein,2,ALA,9066.21
+Q6EDX0_Major capsid protein,3,GLN,17473.45
+Q6EDX0_Major capsid protein,4,VAL,14693.65
+Q6EDX0_Major capsid protein,5,GLN,12763.5
+Q6EDX0_Major capsid protein,6,GLN,23949.66
+Q6EDX0_Major capsid protein,7,LEU,15473.03
+Q6EDX0_Major capsid protein,8,THR,9219.37
+Q6EDX0_Major capsid protein,9,PRO,13071.84
+Q6EDX0_Major capsid protein,10,ALA,17836.89
+Q6EDX0_Major capsid protein,11,GLN,42965.46
+Q6EDX0_Major capsid protein,12,GLN,58057.52
+Q6EDX0_Major capsid protein,13,ALA,20526.81
+Q6EDX0_Major capsid protein,14,ALA,45518.9
+Q6EDX0_Major capsid protein,15,LEU,81583.06
+Q6EDX0_Major capsid protein,16,ARG,92963.7
+Q6EDX0_Major capsid protein,17,ASN,60463.84
+Q6EDX0_Major capsid protein,18,GLN,80135.02
+Q6EDX0_Major capsid protein,19,GLN,96640.88
+Q6EDX0_Major capsid protein,20,ALA,28042.64
+Q6EDX0_Major capsid protein,21,MET,55658.84
+Q6EDX0_Major capsid protein,22,ALA,42864.28
+Q6EDX0_Major capsid protein,23,ALA,39281
+Q6EDX0_Major capsid protein,24,ASN,4646.29
+Q6EDX0_Major capsid protein,25,LEU,60873.62
+Q6EDX0_Major capsid protein,26,GLN,81060.53
+Q6EDX0_Major capsid protein,27,ALA,6256.06
+Q6EDX0_Major capsid protein,28,ARG,24264.67
+Q6EDX0_Major capsid protein,29,GLN,74085.75
+Q6EDX0_Major capsid protein,30,ILE,34631.69
+Q6EDX0_Major capsid protein,31,VAL,291.78
+Q6EDX0_Major capsid protein,32,LEU,34233.35
+Q6EDX0_Major capsid protein,33,GLN,83510.31
+Q6EDX0_Major capsid protein,34,GLN,42989.84
+Q6EDX0_Major capsid protein,35,SER,2366.35
+Q6EDX0_Major capsid protein,36,TYR,20561.55
+Q6EDX0_Major capsid protein,37,PRO,32104.85
+Q6EDX0_Major capsid protein,38,VAL,4021.56
+Q6EDX0_Major capsid protein,39,ILE,15362.59
+Q6EDX0_Major capsid protein,40,GLN,19199.08
+Q6EDX0_Major capsid protein,41,GLN,46040.64
+Q6EDX0_Major capsid protein,42,VAL,19594.53
+Q6EDX0_Major capsid protein,43,GLU,18625.2
+Q6EDX0_Major capsid protein,44,THR,34161.62
+Q6EDX0_Major capsid protein,45,GLN,31316.52
+Q6EDX0_Major capsid protein,46,THR,38141.95
+Q6EDX0_Major capsid protein,47,PHE,13221.54
+Q6EDX0_Major capsid protein,48,ASP,39107.66
+Q6EDX0_Major capsid protein,49,PRO,7403.22
+Q6EDX0_Major capsid protein,50,ALA,48291.63
+Q6EDX0_Major capsid protein,51,ASN,74555.39
+Q6EDX0_Major capsid protein,52,ARG,54316.75
+Q6EDX0_Major capsid protein,53,SER,14563.59
+Q6EDX0_Major capsid protein,54,VAL,35933.57
+Q6EDX0_Major capsid protein,55,PHE,5276.66
+Q6EDX0_Major capsid protein,56,ASP,38786.56
+Q6EDX0_Major capsid protein,57,VAL,439.42
+Q6EDX0_Major capsid protein,58,THR,40755.94
+Q6EDX0_Major capsid protein,59,PRO,3696.9
+Q6EDX0_Major capsid protein,60,ALA,11140.17
+Q6EDX0_Major capsid protein,61,ASN,16238.14
+Q6EDX0_Major capsid protein,62,VAL,8421.63
+Q6EDX0_Major capsid protein,63,GLY,2459.34
+Q6EDX0_Major capsid protein,64,ILE,444.85
+Q6EDX0_Major capsid protein,65,VAL,0
+Q6EDX0_Major capsid protein,66,LYS,17419.06
+Q6EDX0_Major capsid protein,67,GLY,0.36
+Q6EDX0_Major capsid protein,68,PHE,336.53
+Q6EDX0_Major capsid protein,69,LEU,2832.51
+Q6EDX0_Major capsid protein,70,VAL,1259.93
+Q6EDX0_Major capsid protein,71,LYS,18641.46
+Q6EDX0_Major capsid protein,72,VAL,17.2
+Q6EDX0_Major capsid protein,73,THR,29923.35
+Q6EDX0_Major capsid protein,74,ALA,1870.62
+Q6EDX0_Major capsid protein,75,ALA,6638.45
+Q6EDX0_Major capsid protein,76,ILE,858.8
+Q6EDX0_Major capsid protein,77,LYS,31555.28
+Q6EDX0_Major capsid protein,78,ASN,160.04
+Q6EDX0_Major capsid protein,79,ASN,52912.83
+Q6EDX0_Major capsid protein,80,HIS,33663.62
+Q6EDX0_Major capsid protein,81,ALA,64373.25
+Q6EDX0_Major capsid protein,82,THR,77979.16
+Q6EDX0_Major capsid protein,83,GLU,56901.29
+Q6EDX0_Major capsid protein,84,ALA,30547.18
+Q6EDX0_Major capsid protein,85,VAL,3057.17
+Q6EDX0_Major capsid protein,86,ALA,27808.69
+Q6EDX0_Major capsid protein,87,LEU,21062.49
+Q6EDX0_Major capsid protein,88,THR,4647.4
+Q6EDX0_Major capsid protein,89,ASP,29771.02
+Q6EDX0_Major capsid protein,90,PHE,6956.1
+Q6EDX0_Major capsid protein,91,GLY,0.8
+Q6EDX0_Major capsid protein,92,PRO,43.3
+Q6EDX0_Major capsid protein,93,ALA,1408.69
+Q6EDX0_Major capsid protein,94,ASN,1055.94
+Q6EDX0_Major capsid protein,95,LEU,40.52
+Q6EDX0_Major capsid protein,96,VAL,1711.4
+Q6EDX0_Major capsid protein,97,GLN,22978.02
+Q6EDX0_Major capsid protein,98,ARG,40969.69
+Q6EDX0_Major capsid protein,99,VAL,1514.41
+Q6EDX0_Major capsid protein,100,ILE,6334.39
+Q6EDX0_Major capsid protein,101,TYR,536.23
+Q6EDX0_Major capsid protein,102,TYR,20181.55
+Q6EDX0_Major capsid protein,103,ASP,10524.91
+Q6EDX0_Major capsid protein,104,PRO,6816.77
+Q6EDX0_Major capsid protein,105,ASP,48473.47
+Q6EDX0_Major capsid protein,106,ASN,10995.51
+Q6EDX0_Major capsid protein,107,GLN,19397.27
+Q6EDX0_Major capsid protein,108,ARG,14383.83
+Q6EDX0_Major capsid protein,109,HIS,2460.18
+Q6EDX0_Major capsid protein,110,THR,693.13
+Q6EDX0_Major capsid protein,111,GLU,12474.66
+Q6EDX0_Major capsid protein,112,THR,989.57
+Q6EDX0_Major capsid protein,113,SER,6707.84
+Q6EDX0_Major capsid protein,114,GLY,565.42
+Q6EDX0_Major capsid protein,115,TRP,7355.16
+Q6EDX0_Major capsid protein,116,HIS,590.76
+Q6EDX0_Major capsid protein,117,LEU,935.63
+Q6EDX0_Major capsid protein,118,HIS,1255.58
+Q6EDX0_Major capsid protein,119,PHE,1578.77
+Q6EDX0_Major capsid protein,120,VAL,3070.24
+Q6EDX0_Major capsid protein,121,ASN,8579.12
+Q6EDX0_Major capsid protein,122,THR,0
+Q6EDX0_Major capsid protein,123,ALA,6761.22
+Q6EDX0_Major capsid protein,124,LYS,51566.44
+Q6EDX0_Major capsid protein,125,GLN,48354.81
+Q6EDX0_Major capsid protein,126,GLY,18189.63
+Q6EDX0_Major capsid protein,127,ALA,12105.67
+Q6EDX0_Major capsid protein,128,PRO,861.48
+Q6EDX0_Major capsid protein,129,PHE,8715.03
+Q6EDX0_Major capsid protein,130,LEU,1709.33
+Q6EDX0_Major capsid protein,131,SER,5725.72
+Q6EDX0_Major capsid protein,132,SER,1995.73
+Q6EDX0_Major capsid protein,133,MET,17456.55
+Q6EDX0_Major capsid protein,134,VAL,42809.18
+Q6EDX0_Major capsid protein,135,THR,24275.68
+Q6EDX0_Major capsid protein,136,ASP,28076.56
+Q6EDX0_Major capsid protein,137,SER,20567.32
+Q6EDX0_Major capsid protein,138,PRO,13538.94
+Q6EDX0_Major capsid protein,139,ILE,2919.07
+Q6EDX0_Major capsid protein,140,LYS,70529.79
+Q6EDX0_Major capsid protein,141,TYR,21452.1
+Q6EDX0_Major capsid protein,142,GLY,10183.43
+Q6EDX0_Major capsid protein,143,ASP,49030.46
+Q6EDX0_Major capsid protein,144,VAL,20695.74
+Q6EDX0_Major capsid protein,145,MET,12201.59
+Q6EDX0_Major capsid protein,146,ASN,37016.26
+Q6EDX0_Major capsid protein,147,VAL,0
+Q6EDX0_Major capsid protein,148,ILE,3998.93
+Q6EDX0_Major capsid protein,149,ASP,32711.68
+Q6EDX0_Major capsid protein,150,ALA,11163.55
+Q6EDX0_Major capsid protein,151,PRO,26758.14
+Q6EDX0_Major capsid protein,152,ALA,49619.68
+Q6EDX0_Major capsid protein,153,THR,62835.77
+Q6EDX0_Major capsid protein,154,ILE,2809.62
+Q6EDX0_Major capsid protein,155,ALA,35654.89
+Q6EDX0_Major capsid protein,156,ALA,29025.64
+Q6EDX0_Major capsid protein,157,GLY,37091.79
+Q6EDX0_Major capsid protein,158,ALA,25104.53
+Q6EDX0_Major capsid protein,159,THR,52121.78
+Q6EDX0_Major capsid protein,160,GLY,2300.9
+Q6EDX0_Major capsid protein,161,GLU,76550.67
+Q6EDX0_Major capsid protein,162,LEU,367.28
+Q6EDX0_Major capsid protein,163,THR,7696.28
+Q6EDX0_Major capsid protein,164,MET,12.03
+Q6EDX0_Major capsid protein,165,TYR,292.84
+Q6EDX0_Major capsid protein,166,TYR,1873.1
+Q6EDX0_Major capsid protein,167,TRP,36933.92
+Q6EDX0_Major capsid protein,168,VAL,943.3
+Q6EDX0_Major capsid protein,169,PRO,4161.15
+Q6EDX0_Major capsid protein,170,LEU,603.5
+Q6EDX0_Major capsid protein,171,ALA,3704.1
+Q6EDX0_Major capsid protein,172,TYR,32795.47
+Q6EDX0_Major capsid protein,173,SER,29355.11
+Q6EDX0_Major capsid protein,174,GLU,87517.23
+Q6EDX0_Major capsid protein,175,THR,72073.3
+Q6EDX0_Major capsid protein,176,ASP,23828.25
+Q6EDX0_Major capsid protein,177,LEU,924.37
+Q6EDX0_Major capsid protein,178,THR,11043.03
+Q6EDX0_Major capsid protein,179,GLY,35.97
+Q6EDX0_Major capsid protein,180,ALA,1014.22
+Q6EDX0_Major capsid protein,181,VAL,3596.23
+Q6EDX0_Major capsid protein,182,LEU,27326.83
+Q6EDX0_Major capsid protein,183,ALA,710.43
+Q6EDX0_Major capsid protein,184,ASN,19121.79
+Q6EDX0_Major capsid protein,185,VAL,26137.8
+Q6EDX0_Major capsid protein,186,PRO,24710.64
+Q6EDX0_Major capsid protein,187,GLN,23839.25
+Q6EDX0_Major capsid protein,188,SER,6710.91
+Q6EDX0_Major capsid protein,189,LYS,39654.9
+Q6EDX0_Major capsid protein,190,GLN,2960.99
+Q6EDX0_Major capsid protein,191,ARG,21971.94
+Q6EDX0_Major capsid protein,192,LEU,247.92
+Q6EDX0_Major capsid protein,193,LYS,29561.7
+Q6EDX0_Major capsid protein,194,LEU,1219.63
+Q6EDX0_Major capsid protein,195,GLU,25356.8
+Q6EDX0_Major capsid protein,196,PHE,3083.72
+Q6EDX0_Major capsid protein,197,ALA,20.88
+Q6EDX0_Major capsid protein,198,ASN,27759.74
+Q6EDX0_Major capsid protein,199,ASN,36008.19
+Q6EDX0_Major capsid protein,200,ASN,95131.38
+Q6EDX0_Major capsid protein,201,THR,28343.71
+Q6EDX0_Major capsid protein,202,ALA,37.98
+Q6EDX0_Major capsid protein,203,PHE,15822.93
+Q6EDX0_Major capsid protein,204,ALA,6776.8
+Q6EDX0_Major capsid protein,205,ALA,40134.84
+Q6EDX0_Major capsid protein,206,VAL,81899.44
+Q6EDX0_Major capsid protein,207,GLY,55463.33
+Q6EDX0_Major capsid protein,208,ALA,29721.58
+Q6EDX0_Major capsid protein,209,ASN,41188.48
+Q6EDX0_Major capsid protein,210,PRO,17095.84
+Q6EDX0_Major capsid protein,211,LEU,3815.18
+Q6EDX0_Major capsid protein,212,GLU,44321.26
+Q6EDX0_Major capsid protein,213,ALA,2328.88
+Q6EDX0_Major capsid protein,214,ILE,130.64
+Q6EDX0_Major capsid protein,215,TYR,558.36
+Q6EDX0_Major capsid protein,216,GLN,35768.94
+Q6EDX0_Major capsid protein,217,GLY,8239.31
+Q6EDX0_Major capsid protein,218,ALA,41258.08
+Q6EDX0_Major capsid protein,219,GLY,13.62
+Q6EDX0_Major capsid protein,220,ALA,8561.1
+Q6EDX0_Major capsid protein,221,ALA,68500.33
+Q6EDX0_Major capsid protein,222,ASP,47499.59
+Q6EDX0_Major capsid protein,223,CYS,6433.09
+Q6EDX0_Major capsid protein,224,GLU,58445.23
+Q6EDX0_Major capsid protein,225,PHE,6747.06
+Q6EDX0_Major capsid protein,226,GLU,63337.19
+Q6EDX0_Major capsid protein,227,GLU,62209.07
+Q6EDX0_Major capsid protein,228,ILE,34.41
+Q6EDX0_Major capsid protein,229,SER,19087.68
+Q6EDX0_Major capsid protein,230,TYR,580.96
+Q6EDX0_Major capsid protein,231,THR,10228.26
+Q6EDX0_Major capsid protein,232,VAL,270.29
+Q6EDX0_Major capsid protein,233,TYR,3590.09
+Q6EDX0_Major capsid protein,234,GLN,576.14
+Q6EDX0_Major capsid protein,235,SER,10434.9
+Q6EDX0_Major capsid protein,236,TYR,2526.11
+Q6EDX0_Major capsid protein,237,LEU,5513.41
+Q6EDX0_Major capsid protein,238,ASP,15942.75
+Q6EDX0_Major capsid protein,239,GLN,24404.33
+Q6EDX0_Major capsid protein,240,LEU,13795.24
+Q6EDX0_Major capsid protein,241,PRO,8044.54
+Q6EDX0_Major capsid protein,242,VAL,54276.34
+Q6EDX0_Major capsid protein,243,GLY,18435.7
+Q6EDX0_Major capsid protein,244,GLN,116189.86
+Q6EDX0_Major capsid protein,245,ASN,95338.04
+Q6EDX0_Major capsid protein,246,GLY,17761.94
+Q6EDX0_Major capsid protein,247,TYR,51216.39
+Q6EDX0_Major capsid protein,248,ILE,33847.95
+Q6EDX0_Major capsid protein,249,LEU,19252.12
+Q6EDX0_Major capsid protein,250,PRO,292.26
+Q6EDX0_Major capsid protein,251,LEU,63817.72
+Q6EDX0_Major capsid protein,252,ILE,39413.82
+Q6EDX0_Major capsid protein,253,ASP,4340.09
+Q6EDX0_Major capsid protein,254,LEU,16404.08
+Q6EDX0_Major capsid protein,255,SER,24975.85
+Q6EDX0_Major capsid protein,256,THR,8733.31
+Q6EDX0_Major capsid protein,257,LEU,5084.92
+Q6EDX0_Major capsid protein,258,TYR,151.65
+Q6EDX0_Major capsid protein,259,ASN,2247.85
+Q6EDX0_Major capsid protein,260,LEU,350.27
+Q6EDX0_Major capsid protein,261,GLU,12476.77
+Q6EDX0_Major capsid protein,262,ASN,31771.47
+Q6EDX0_Major capsid protein,263,SER,16459.09
+Q6EDX0_Major capsid protein,264,ALA,20340.41
+Q6EDX0_Major capsid protein,265,GLN,29756.47
+Q6EDX0_Major capsid protein,266,ALA,28681.57
+Q6EDX0_Major capsid protein,267,GLY,26046.16
+Q6EDX0_Major capsid protein,268,LEU,11450.75
+Q6EDX0_Major capsid protein,269,THR,24345.29
+Q6EDX0_Major capsid protein,270,PRO,30223.99
+Q6EDX0_Major capsid protein,271,ASN,52898.57
+Q6EDX0_Major capsid protein,272,VAL,24667.48
+Q6EDX0_Major capsid protein,273,ASP,32187.28
+Q6EDX0_Major capsid protein,274,PHE,17254.42
+Q6EDX0_Major capsid protein,275,VAL,37056.74
+Q6EDX0_Major capsid protein,276,VAL,2901.8
+Q6EDX0_Major capsid protein,277,GLN,38493.36
+Q6EDX0_Major capsid protein,278,TYR,2154.68
+Q6EDX0_Major capsid protein,279,ALA,12834.69
+Q6EDX0_Major capsid protein,280,ASN,11551.34
+Q6EDX0_Major capsid protein,281,LEU,22480.28
+Q6EDX0_Major capsid protein,282,TYR,13799.5
+Q6EDX0_Major capsid protein,283,ARG,47537.4
+Q6EDX0_Major capsid protein,284,TYR,5150.63
+Q6EDX0_Major capsid protein,285,LEU,4149.03
+Q6EDX0_Major capsid protein,286,SER,1628.92
+Q6EDX0_Major capsid protein,287,THR,1339.61
+Q6EDX0_Major capsid protein,288,ILE,1047.18
+Q6EDX0_Major capsid protein,289,ALA,1085.61
+Q6EDX0_Major capsid protein,290,VAL,18.8
+Q6EDX0_Major capsid protein,291,PHE,2763
+Q6EDX0_Major capsid protein,292,ASP,664.41
+Q6EDX0_Major capsid protein,293,ASN,2096.25
+Q6EDX0_Major capsid protein,294,GLY,24980.36
+Q6EDX0_Major capsid protein,295,GLY,15976.14
+Q6EDX0_Major capsid protein,296,SER,33518.2
+Q6EDX0_Major capsid protein,297,PHE,24038.26
+Q6EDX0_Major capsid protein,298,ASN,33582.52
+Q6EDX0_Major capsid protein,299,ALA,24144.53
+Q6EDX0_Major capsid protein,300,GLY,8951.79
+Q6EDX0_Major capsid protein,301,THR,69083.16
+Q6EDX0_Major capsid protein,302,ASP,3551.43
+Q6EDX0_Major capsid protein,303,ILE,4542.35
+Q6EDX0_Major capsid protein,304,ASN,33440.05
+Q6EDX0_Major capsid protein,305,TYR,26510.6
+Q6EDX0_Major capsid protein,306,LEU,417.19
+Q6EDX0_Major capsid protein,307,SER,90.56
+Q6EDX0_Major capsid protein,308,GLN,2196.34
+Q6EDX0_Major capsid protein,309,ARG,25212.37
+Q6EDX0_Major capsid protein,310,THR,13484.45
+Q6EDX0_Major capsid protein,311,ALA,7985.89
+Q6EDX0_Major capsid protein,312,ASN,18833.75
+Q6EDX0_Major capsid protein,313,PHE,21447.8
+Q6EDX0_Major capsid protein,314,SER,11779.91
+Q6EDX0_Major capsid protein,315,ASP,23122.24
+Q6EDX0_Major capsid protein,316,THR,6849.99
+Q6EDX0_Major capsid protein,317,ARG,37152.54
+Q6EDX0_Major capsid protein,318,LYS,43661.1
+Q6EDX0_Major capsid protein,319,LEU,3810.51
+Q6EDX0_Major capsid protein,320,ASP,30595.43
+Q6EDX0_Major capsid protein,321,PRO,6588.15
+Q6EDX0_Major capsid protein,322,LYS,38776.7
+Q6EDX0_Major capsid protein,323,THR,5.2
+Q6EDX0_Major capsid protein,324,TRP,7373.69
+Q6EDX0_Major capsid protein,325,ALA,6099.24
+Q6EDX0_Major capsid protein,326,ALA,1138.22
+Q6EDX0_Major capsid protein,327,GLN,49047.56
+Q6EDX0_Major capsid protein,328,THR,7010.7
+Q6EDX0_Major capsid protein,329,ARG,1887.83
+Q6EDX0_Major capsid protein,330,ARG,70150.47
+Q6EDX0_Major capsid protein,331,ARG,71824
+Q6EDX0_Major capsid protein,332,ILE,179.86
+Q6EDX0_Major capsid protein,333,ALA,21603.94
+Q6EDX0_Major capsid protein,334,THR,880.78
+Q6EDX0_Major capsid protein,335,ASP,2157.5
+Q6EDX0_Major capsid protein,336,PHE,5871.98
+Q6EDX0_Major capsid protein,337,PRO,710.17
+Q6EDX0_Major capsid protein,338,LYS,57429.73
+Q6EDX0_Major capsid protein,339,GLY,1102.37
+Q6EDX0_Major capsid protein,340,VAL,7094.52
+Q6EDX0_Major capsid protein,341,TYR,8920.5
+Q6EDX0_Major capsid protein,342,TYR,7303.59
+Q6EDX0_Major capsid protein,343,CYS,1577.81
+Q6EDX0_Major capsid protein,344,ASP,23831.7
+Q6EDX0_Major capsid protein,345,ASN,4195.48
+Q6EDX0_Major capsid protein,346,ARG,35365.62
+Q6EDX0_Major capsid protein,347,ASP,82147.72
+Q6EDX0_Major capsid protein,348,LYS,27717.4
+Q6EDX0_Major capsid protein,349,PRO,30053.19
+Q6EDX0_Major capsid protein,350,ILE,6138.96
+Q6EDX0_Major capsid protein,351,TYR,42492.83
+Q6EDX0_Major capsid protein,352,THR,3306.05
+Q6EDX0_Major capsid protein,353,LEU,37007.73
+Q6EDX0_Major capsid protein,354,GLN,28482.75
+Q6EDX0_Major capsid protein,355,TYR,21957.62
+Q6EDX0_Major capsid protein,356,GLY,6425.21
+Q6EDX0_Major capsid protein,357,ASN,12191.65
+Q6EDX0_Major capsid protein,358,VAL,10549.97
+Q6EDX0_Major capsid protein,359,GLY,1761.5
+Q6EDX0_Major capsid protein,360,PHE,2250.72
+Q6EDX0_Major capsid protein,361,VAL,327.88
+Q6EDX0_Major capsid protein,362,VAL,1625.93
+Q6EDX0_Major capsid protein,363,ASN,5752.92
+Q6EDX0_Major capsid protein,364,PRO,135.4
+Q6EDX0_Major capsid protein,365,LYS,69670.45
+Q6EDX0_Major capsid protein,366,THR,49273.07
+Q6EDX0_Major capsid protein,367,VAL,21447.44
+Q6EDX0_Major capsid protein,368,ASN,49345.31
+Q6EDX0_Major capsid protein,369,GLN,88187.26
+Q6EDX0_Major capsid protein,370,ASN,71183.91
+Q6EDX0_Major capsid protein,371,ALA,8403.87
+Q6EDX0_Major capsid protein,372,ARG,31253.59
+Q6EDX0_Major capsid protein,373,LEU,1549.56
+Q6EDX0_Major capsid protein,374,LEU,6476.98
+Q6EDX0_Major capsid protein,375,MET,493.03
+Q6EDX0_Major capsid protein,376,GLY,418.95
+Q6EDX0_Major capsid protein,377,TYR,9945.7
+Q6EDX0_Major capsid protein,378,GLU,363.15
+Q6EDX0_Major capsid protein,379,TYR,2755.06
+Q6EDX0_Major capsid protein,380,PHE,19912.56
+Q6EDX0_Major capsid protein,381,THR,6701.18
+Q6EDX0_Major capsid protein,382,SER,28884.32
+Q6EDX0_Major capsid protein,383,ARG,58103.63
+Q6EDX0_Major capsid protein,384,THR,42982.58
+Q6EDX0_Major capsid protein,385,GLU,41700.15
+Q6EDX0_Major capsid protein,386,LEU,30961.44
+Q6EDX0_Major capsid protein,387,VAL,25136.22
+Q6EDX0_Major capsid protein,388,ASN,28452.59
+Q6EDX0_Major capsid protein,389,ALA,16076.59
+Q6EDX0_Major capsid protein,390,GLY,22128.05
+Q6EDX0_Major capsid protein,391,THR,16790.57
+Q6EDX0_Major capsid protein,392,ILE,9267.95
+Q6EDX0_Major capsid protein,393,SER,3637.68
+Q6EDX0_Major capsid protein,394,THR,10742.95
+Q6EDX0_Major capsid protein,395,THR,14036.42
+Q6EDX8_Spike,1,MET,4876.72
+Q6EDX8_Spike,2,ALA,689.18
+Q6EDX8_Spike,3,ASN,1124.73
+Q6EDX8_Spike,4,GLN,925.21
+Q6EDX8_Spike,5,GLN,2042.5
+Q6EDX8_Spike,6,ILE,4596.29
+Q6EDX8_Spike,7,GLY,1001.72
+Q6EDX8_Spike,8,GLY,1381.51
+Q6EDX8_Spike,9,SER,603.14
+Q6EDX8_Spike,10,THR,399.25
+Q6EDX8_Spike,11,VAL,169.91
+Q6EDX8_Spike,12,THR,1381.28
+Q6EDX8_Spike,13,TYR,901.24
+Q6EDX8_Spike,14,ASN,1565.8
+Q6EDX8_Spike,15,GLY,1577.43
+Q6EDX8_Spike,16,ALA,2396.97
+Q6EDX8_Spike,17,ILE,4724.88
+Q6EDX8_Spike,18,PRO,1015.43
+Q6EDX8_Spike,19,MET,6843.11
+Q6EDX8_Spike,20,GLY,2353.35
+Q6EDX8_Spike,21,GLY,668.25
+Q6EDX8_Spike,22,PRO,1202.44
+Q6EDX8_Spike,23,VAL,475.78
+Q6EDX8_Spike,24,ALA,20.16
+Q6EDX8_Spike,25,ILE,79.33
+Q6EDX8_Spike,26,ASN,1318.25
+Q6EDX8_Spike,27,SER,243.21
+Q6EDX8_Spike,28,VAL,1993.28
+Q6EDX8_Spike,29,ILE,118.45
+Q6EDX8_Spike,30,GLU,3890.34
+Q6EDX8_Spike,31,ILE,579.29
+Q6EDX8_Spike,32,ALA,2248.18
+Q6EDX8_Spike,33,GLY,2069.84
+Q6EDX8_Spike,34,THR,2282.73
+Q6EDX8_Spike,35,GLU,1948.71
+Q6EDX8_Spike,36,VAL,307.56
+Q6EDX8_Spike,37,LEU,839.63
+Q6EDX8_Spike,38,VAL,120.37
+Q6EDX8_Spike,39,ASP,1027.56
+Q6EDX8_Spike,40,LEU,262.88
+Q6EDX8_Spike,41,LYS,582.57
+Q6EDX8_Spike,42,LEU,2259.97
+Q6EDX8_Spike,43,ASP,1116.82
+Q6EDX8_Spike,44,TYR,2264.75
+Q6EDX8_Spike,45,ALA,672.92
+Q6EDX8_Spike,46,THR,675.83
+Q6EDX8_Spike,47,GLY,480.05
+Q6EDX8_Spike,48,LYS,1864.26
+Q6EDX8_Spike,49,ILE,280.1
+Q6EDX8_Spike,50,SER,1590.69
+Q6EDX8_Spike,51,GLY,32.64
+Q6EDX8_Spike,52,VAL,32.05
+Q6EDX8_Spike,53,GLN,601.05
+Q6EDX8_Spike,54,THR,28.51
+Q6EDX8_Spike,55,LEU,12.05
+Q6EDX8_Spike,56,TYR,29.08
+Q6EDX8_Spike,57,ILE,5.62
+Q6EDX8_Spike,58,ASP,75.74
+Q6EDX8_Spike,59,LEU,45.14
+Q6EDX8_Spike,60,ARG,2518.51
+Q6EDX8_Spike,61,ASP,3850.31
+Q6EDX8_Spike,62,PHE,982.51
+Q6EDX8_Spike,63,LEU,5750.16
+Q6EDX8_Spike,64,GLY,462.5
+Q6EDX8_Spike,65,ASP,1563.08
+Q6EDX8_Spike,66,VAL,1.96
+Q6EDX8_Spike,67,THR,1116.74
+Q6EDX8_Spike,68,VAL,11.05
+Q6EDX8_Spike,69,THR,1415.38
+Q6EDX8_Spike,70,MET,216.52
+Q6EDX8_Spike,71,PRO,1151.06
+Q6EDX8_Spike,72,ASP,492.42
+Q6EDX8_Spike,73,THR,365.15
+Q6EDX8_Spike,74,GLY,1013.05
+Q6EDX8_Spike,75,GLN,37.4
+Q6EDX8_Spike,76,ARG,2048.67
+Q6EDX8_Spike,77,ILE,12.46
+Q6EDX8_Spike,78,THR,181.92
+Q6EDX8_Spike,79,ALA,6.01
+Q6EDX8_Spike,80,ARG,2473.46
+Q6EDX8_Spike,81,ALA,1259.01
+Q6EDX8_Spike,82,GLY,1134.62
+Q6EDX8_Spike,83,THR,540.42
+Q6EDX8_Spike,84,GLN,72.52
+Q6EDX8_Spike,85,GLY,0
+Q6EDX8_Spike,86,TYR,44.42
+Q6EDX8_Spike,87,TYR,33.05
+Q6EDX8_Spike,88,PRO,540.79
+Q6EDX8_Spike,89,VAL,416.17
+Q6EDX8_Spike,90,LEU,77.6
+Q6EDX8_Spike,91,SER,138.19
+Q6EDX8_Spike,92,THR,415
+Q6EDX8_Spike,93,ASN,2233.9
+Q6EDX8_Spike,94,LEU,222.8
+Q6EDX8_Spike,95,MET,1.61
+Q6EDX8_Spike,96,LYS,1041.4
+Q6EDX8_Spike,97,PHE,0
+Q6EDX8_Spike,98,ILE,1539.32
+Q6EDX8_Spike,99,VAL,0.4
+Q6EDX8_Spike,100,SER,1066.65
+Q6EDX8_Spike,101,ALA,780.34
+Q6EDX8_Spike,102,THR,3359.89
+Q6EDX8_Spike,103,ILE,1951.38
+Q6EDX8_Spike,104,ASP,3209.95
+Q6EDX8_Spike,105,GLY,826.02
+Q6EDX8_Spike,106,LYS,4715.17
+Q6EDX8_Spike,107,PHE,42.96
+Q6EDX8_Spike,108,PRO,823.97
+Q6EDX8_Spike,109,MET,5.16
+Q6EDX8_Spike,110,ASN,136.48
+Q6EDX8_Spike,111,PHE,1.2
+Q6EDX8_Spike,112,ILE,0
+Q6EDX8_Spike,113,ASN,114.34
+Q6EDX8_Spike,114,PHE,1096.94
+Q6EDX8_Spike,115,PRO,2621.27
+Q6EDX8_Spike,116,ILE,1060.26
+Q6EDX8_Spike,117,ALA,1651.8
+Q6EDX8_Spike,118,LEU,911.6
+Q6EDX8_Spike,119,GLY,330.3
+Q6EDX8_Spike,120,VAL,801.61
+Q6EDX8_Spike,121,TRP,253.85
+Q6EDX8_Spike,122,PRO,1687.53
+Q6EDX8_Spike,123,SER,1724.52
+Q6EDX8_Spike,124,GLY,3690.68
+Q6EDY0_Penton,2,ASN,3443.12
+Q6EDY0_Penton,3,VAL,1816.65
+Q6EDY0_Penton,4,ASN,1137.81
+Q6EDY0_Penton,5,ASN,681.13
+Q6EDY0_Penton,6,PRO,673.94
+Q6EDY0_Penton,7,ASN,1054.89
+Q6EDY0_Penton,8,GLN,1892.75
+Q6EDY0_Penton,9,MET,1910.16
+Q6EDY0_Penton,10,THR,757.55
+Q6EDY0_Penton,11,VAL,249.96
+Q6EDY0_Penton,12,THR,267.07
+Q6EDY0_Penton,13,PRO,53.98
+Q6EDY0_Penton,14,VAL,858.45
+Q6EDY0_Penton,15,TYR,711.15
+Q6EDY0_Penton,16,ASN,842.91
+Q6EDY0_Penton,17,GLY,932.42
+Q6EDY0_Penton,18,CYS,2203.46
+Q6EDY0_Penton,19,ASP,3108.62
+Q6EDY0_Penton,20,SER,457.1
+Q6EDY0_Penton,21,GLY,2199.67
+Q6EDY0_Penton,22,GLU,1091.86
+Q6EDY0_Penton,23,GLY,617.79
+Q6EDY0_Penton,24,PRO,776.24
+Q6EDY0_Penton,25,GLN,145.75
+Q6EDY0_Penton,26,SER,29.97
+Q6EDY0_Penton,27,VAL,86.96
+Q6EDY0_Penton,28,ARG,698.66
+Q6EDY0_Penton,29,GLY,74.09
+Q6EDY0_Penton,30,TYR,1267.13
+Q6EDY0_Penton,31,PHE,1436.62
+Q6EDY0_Penton,32,ASP,231.21
+Q6EDY0_Penton,33,ALA,1569.1
+Q6EDY0_Penton,34,VAL,639.93
+Q6EDY0_Penton,35,ALA,1732.88
+Q6EDY0_Penton,36,GLY,818.69
+Q6EDY0_Penton,37,GLU,1894.92
+Q6EDY0_Penton,38,ASN,777.57
+Q6EDY0_Penton,39,VAL,310.36
+Q6EDY0_Penton,40,LYS,1099.5
+Q6EDY0_Penton,41,TYR,260.97
+Q6EDY0_Penton,42,ASP,444.87
+Q6EDY0_Penton,43,LEU,283.4
+Q6EDY0_Penton,44,THR,444.85
+Q6EDY0_Penton,45,TYR,1212.58
+Q6EDY0_Penton,46,LEU,894.06
+Q6EDY0_Penton,47,ALA,801.71
+Q6EDY0_Penton,48,ASP,838.59
+Q6EDY0_Penton,49,THR,738.38
+Q6EDY0_Penton,50,GLN,617.88
+Q6EDY0_Penton,51,GLY,463.86
+Q6EDY0_Penton,52,PHE,150.79
+Q6EDY0_Penton,53,THR,1820.4
+Q6EDY0_Penton,54,GLY,159.15
+Q6EDY0_Penton,55,VAL,52.56
+Q6EDY0_Penton,56,GLN,430.01
+Q6EDY0_Penton,57,CYS,31.44
+Q6EDY0_Penton,58,ILE,17.32
+Q6EDY0_Penton,59,TYR,16.14
+Q6EDY0_Penton,60,ILE,2.4
+Q6EDY0_Penton,61,ASP,100.46
+Q6EDY0_Penton,62,ASN,10.84
+Q6EDY0_Penton,63,ALA,659.64
+Q6EDY0_Penton,64,GLU,2396.1
+Q6EDY0_Penton,65,ASN,184.42
+Q6EDY0_Penton,66,ASP,2578.43
+Q6EDY0_Penton,67,GLY,193.62
+Q6EDY0_Penton,68,ALA,523.42
+Q6EDY0_Penton,69,PHE,214.94
+Q6EDY0_Penton,70,GLU,506.39
+Q6EDY0_Penton,71,ILE,116.3
+Q6EDY0_Penton,72,ASP,649.88
+Q6EDY0_Penton,73,VAL,200.99
+Q6EDY0_Penton,74,GLU,1251.53
+Q6EDY0_Penton,75,GLU,264
+Q6EDY0_Penton,76,THR,141.94
+Q6EDY0_Penton,77,GLY,870.08
+Q6EDY0_Penton,78,GLN,57.76
+Q6EDY0_Penton,79,ARG,1449.36
+Q6EDY0_Penton,80,ILE,41.46
+Q6EDY0_Penton,81,LYS,1293
+Q6EDY0_Penton,82,CYS,1.2
+Q6EDY0_Penton,83,PRO,790.43
+Q6EDY0_Penton,84,ALA,1008.4
+Q6EDY0_Penton,85,GLY,1024.56
+Q6EDY0_Penton,86,LYS,1825.15
+Q6EDY0_Penton,87,GLN,141.63
+Q6EDY0_Penton,88,GLY,0
+Q6EDY0_Penton,89,TYR,10.27
+Q6EDY0_Penton,90,PHE,0.4
+Q6EDY0_Penton,91,PRO,414.63
+Q6EDY0_Penton,92,LEU,376.76
+Q6EDY0_Penton,93,LEU,3.6
+Q6EDY0_Penton,94,VAL,53.74
+Q6EDY0_Penton,95,PRO,145.32
+Q6EDY0_Penton,96,GLY,1346.82
+Q6EDY0_Penton,97,ARG,324.43
+Q6EDY0_Penton,98,ALA,148.63
+Q6EDY0_Penton,99,LYS,970.34
+Q6EDY0_Penton,100,PHE,21.83
+Q6EDY0_Penton,101,VAL,346.13
+Q6EDY0_Penton,102,ALA,135.62
+Q6EDY0_Penton,103,ARG,2007.87
+Q6EDY0_Penton,104,HIS,652.43
+Q6EDY0_Penton,105,LEU,2560.09
+Q6EDY0_Penton,106,GLY,804.15
+Q6EDY0_Penton,107,SER,1988.48
+Q6EDY0_Penton,108,GLY,833.25
+Q6EDY0_Penton,109,LYS,2514.02
+Q6EDY0_Penton,110,LYS,1296.25
+Q6EDY0_Penton,111,SER,1480.41
+Q6EDY0_Penton,112,VAL,80.94
+Q6EDY0_Penton,113,PRO,225.81
+Q6EDY0_Penton,114,LEU,2.4
+Q6EDY0_Penton,115,PHE,65.25
+Q6EDY0_Penton,116,PHE,39.85
+Q6EDY0_Penton,117,LEU,0
+Q6EDY0_Penton,118,ASN,43.97
+Q6EDY0_Penton,119,PHE,925.35
+Q6EDY0_Penton,120,THR,2411.83
+Q6EDY0_Penton,121,ILE,514.3
+Q6EDY0_Penton,122,ALA,1062.61
+Q6EDY0_Penton,123,GLN,605.76
+Q6EDY0_Penton,124,GLY,267.77
+Q6EDY0_Penton,125,VAL,604.96
+Q6EDY0_Penton,126,TRP,747.97
