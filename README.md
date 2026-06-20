@@ -39,6 +39,8 @@ Please follow the step-by-step instructions detailed in `SASA_calculation_exampl
 ## Validation
 Users can verify the SASA calculation by processing the example PDB IDs. The raw cif structures (`{PDBID}.cif.gz`) and the cleaned-up cif structures (`{PDBID}.all_clean.cif`) were shared in the `example_data` folder. The resulting SASA values per residue (`{PDBID}_all_clean_300_SASA.csv`) and summarized SASA values per protein (`{PDBID}_all_residues_sasa_summary.csv`) were provided in the `sample_results` folder.
 
+**Note on Large CIF Files:** For very large icosahedral virus structures (e.g., >100MB compressed or ~1GB uncompressed), it is highly recommended to use the built-in scraper tool (`PDB_scraper.py`) to fetch them directly from the RCSB PDB database via their PDB ID instead of uploading the raw `.cif` text files directly to GitHub. 
+
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
